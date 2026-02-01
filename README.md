@@ -1,4 +1,22 @@
-# ia-mentor-de-carreira
+# ia-mentor-de-carreira : 
+
+DIO: https://github.com/digitalinnovationone/copilot-prompts
+
+> AGENTE 1 - Entrevistador de Carreira em Tecnologia: 
+
+Apos a entrevista com o agente 1:  Enttrevistador de Carreira, foi identificado o perfil:
+
+Vou te passar para meu colega especialista em **Engenharia de Inteligência Artificial**. Ele vai montar todo o plano de estudos personalizado para você, considerando seu perfil.  
+
+Aqui estão as informações que ele vai receber:  
+- **Carreira escolhida:** Engenheiro de Inteligência Artificial  
+- **Horas disponíveis por semana:** 14 horas  
+- **Nível de experiência:** iniciante (já conhece Python, lógica e ferramentas de IA)  
+- **Objetivo:** transição de carreira  
+- **Preferência:** dados e pessoas  
+- **Interesses técnicos:** inteligência artificial  
+
+> AGENTE 2 - Planejador de Carreiras
 
 Vou criar uma planilha Excel detalhada com **trilhas completas** (NLP, Visão Computacional, MLOps) e o roadmap de 90 dias adaptado ao seu perfil, e em seguida entrego o plano completo em Markdown. Vou gerar o arquivo agora.
 
@@ -153,7 +171,7 @@ Cada trilha tem **cronograma sugerido**, **horas por módulo**, **recursos recom
 
 ---
 
-### 📦 O QUE HÁ NA PLANILHA (detalhes das abas)
+### 📦 O QUE HÁ NA PLANILHA (detalhes das abas) <Trilha_IA_Joselia.xlsx>
 
 - **Resumo:** informações do perfil; horas/semana; objetivo; início sugerido; observações.  
 - **Roadmap_90dias:** 12 semanas detalhadas com foco; tópicos; atividades práticas; horas/semana; entregáveis.  
@@ -161,14 +179,6 @@ Cada trilha tem **cronograma sugerido**, **horas por módulo**, **recursos recom
 - **Recursos:** cursos YouTube; trilha DIO; documentações técnicas; observações.  
 - **Trilhas_Detalhadas:** trilha NLP; trilha Visão Computacional; trilha MLOps — cada uma com módulos, horas e projeto final.  
 - **Cronograma_Integrado:** visão semanal combinando roadmap + cursos do YouTube + trilha DIO + tempo para projetos.
-
----
-
-### Próximos passos
-
-1. Abra o cartão acima para baixar a planilha Excel com as **trilhas completas** e o roadmap detalhado.  
-2. Comece pela **Semana 1** do Roadmap_90dias e siga o Cronograma_Integrado para encaixar cursos do YouTube e a trilha DIO.  
-3. Se quiser, eu adapto a planilha para focar 100% em **NLP** ou **Visão Computacional**, ou aumento a carga de projetos para quem tem mais disponibilidade.
 
 ---
 
