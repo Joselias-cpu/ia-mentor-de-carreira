@@ -184,3 +184,77 @@ Cada trilha tem **cronograma sugerido**, **horas por módulo**, **recursos recom
 
 ✨ Seu plano detalhado está pronto e a planilha está sendo gerada.  
 Clique/abra o cartão acima para baixar o arquivo Excel com todas as abas e começar a usar hoje.
+
+---
+
+## IA ENTREVISTADOR: SEU ENTREVISTADOR INTELIGENTE DE ENTREVISTAS
+
+> Conceito: Como exemplo de aprendizado, a ideia é Utilizar o Copilot para simular entrevista de emprego na área de "Engenheiro de Inteligencia Artificial" que foi constatado como sendo o meu perfil. Utilizei o prompt dado em aula: https://web.dio.me/project/ia-entrevistador-seu-simulador-inteligente-de-entrevistas/learning/20285967-5eee-4f43-a1da-e7e5a90eb473?back=/track/caixa-inteligencia-artificial-na-pratica&tab=undefined&moduleId=undefined
+
+Com a entrevista e o Bootcamp, acabei descobrindo outros caminhos. O que pra mim foi o maior aprendizado.
+
+A seguir, a vaga de Engenharia de Inteligência Artificial, estruturado como se fosse um exemplo de entrevista conduzida por um "IA Entrevistador":
+
+# Entrevista Simulada - Vaga de Engenharia de Inteligência Artificial
+
+## 1. Título e Propósito
+**Título da vaga:** Engenharia de Inteligência Artificial  
+**Propósito principal:**  
+- Coletar, limpar e organizar dados para treinar modelos  
+- Desenvolver, treinar e ajustar modelos de machine learning e deep learning  
+- Avaliar métricas de desempenho e otimizar modelos para produção  
+- Colaborar com cientistas de dados, engenheiros de software e stakeholders  
+- Documentar experimentos, criar pipelines reprodutíveis e comunicar resultados  
+
+---
+
+## 2. Senioridade
+**Nível esperado:** Júnior  
+**Motivo:** posição voltada para início de carreira, com foco em aprendizado e desenvolvimento prático.
+
+---
+
+## 3. Stack Tecnológico
+**Essenciais:**  
+- Python (NumPy, Pandas)  
+- Machine Learning clássico (scikit-learn)  
+- Deep Learning (PyTorch, TensorFlow)  
+- Avaliação de modelos (validação cruzada, métricas: precisão, F1, ROC-AUC)  
+
+**Complementares (Nice-to-have):**  
+- NLP com Transformers (Hugging Face)  
+- Deploy e MLOps básicos (Docker, FastAPI, monitoramento)  
+
+**Ferramentas:**  
+- Jupyter Notebooks, Git, Google Colab/Cloud (GPU)  
+- Streamlit, FastAPI, Docker  
+
+---
+
+## 4. Soft Skills
+**Comportamentos valorizados:**  
+- Vontade de aprender  
+- Iniciativa  
+
+---
+
+## 5. Experiência Relacionada
+- Coleta de dados via pesquisas na internet para apoiar projetos de marketing.  
+- Projeto **Creator AI Pro**: treinamento de 40h para capacitar criadores de conteúdo com IA.  
+  - Estrutura baseada em *Project-Based Learning*.  
+  - Em 2 dias: nicho validado, canal estruturado, 30 roteiros prontos.  
+  - Foco em autonomia operacional e consistência criativa.  
+
+---
+
+## 6. Insights da Entrevista
+- A candidata demonstra iniciativa e aplicação prática imediata dos conhecimentos.  
+- O projeto Creator AI Pro é um case diferenciado que une IA e estratégia digital.  
+- Para aumentar as chances de contratação, recomenda-se:  
+  - Publicar vídeos e gerar métricas iniciais.  
+  - Documentar o processo técnico e resultados.  
+  - Montar portfólio no GitHub com projetos de ML/DL e deploy simples.  
+
+---
+
+
