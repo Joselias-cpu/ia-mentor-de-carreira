@@ -1,6 +1,8 @@
 # ia-mentor-de-carreira : 
 
-DIO: https://github.com/digitalinnovationone/copilot-prompts
+DIO: https://github.com/digitalinnovationone/copilot-prompts.
+
+# Conceito: Usando o AGENTE 1 - 'Entrevistador de Carreira em Tecnologia" e  "AGENTE 2 - Planejador de Carreiras", além do "IA ENTREVISTADOR: SEU ENTREVISTADOR INTELIGENTE DE ENTREVISTAS" e finalizando " Mapa de Habilidades", com auxilio do Copilot.
 
 > AGENTE 1 - Entrevistador de Carreira em Tecnologia: 
 
@@ -257,4 +259,76 @@ A seguir, a vaga de Engenharia de Inteligência Artificial, estruturado como se 
 
 ---
 
+## MAPA DE HABILIDADES:
+
+> Conclusão do Bootcamp Dio com mapa de habilidades, finalizado com auxilio do Copilot: 
+
+# Mapa de Habilidades
+
+## Etapa 1 – Inventário de Habilidades
+
+### Habilidades que possuo
+- Técnicas: pesquisar, coletar e organizar dados, aplicação de IA, criação de conteúdo digital.  
+- Comportamentais: iniciativa para estruturar projetos, resolver problemas, gostar de aprender, saber ouvir, direcionar pessoas.  
+- Criatividade: gerar ideias, estruturar projetos, criar soluções práticas.
+
+### O que as pessoas costumam elogiar
+- Carisma.  
+- Capacidade de ajudar a resolver problemas de trabalho ou burocráticos.  
+- Praticidade.  
+- Habilidade de ensinar com clareza.
+
+### Tarefas em que me sinto confiante
+- Atividades que envolvem criatividade e criação.  
+- Projetos que ajudam pessoas de forma prática.  
+
+### Tipo de ajuda que ofereço a amigos e familiares
+- Dou ideias e direção para resolução de problemas.  
+- Apoio quando percebo necessidade ou quando solicitam.  
+
+### Atividades que faço com facilidade
+- Entendimento de procedimentos técnicos.  
+- Aprender coisas novas rapidamente.  
+- Lidar com tecnologias.  
+- Direcionar pessoas em projetos ou tarefas.  
+
+### Conteúdo que consumo com frequência
+- Filmes: ação, tecnologia, ficção científica, fantasia.  
+- Livros: crescimento pessoal e profissional.  
+- Vídeos: educativos e negócios.  
+- Músicas: vários estilos (exceto funk e rap).  
+
+---
+
+## Etapa 2 – Reflexões e Oportunidades
+
+### Alguém pagaria por isso?
+Sim, porque minhas habilidades resolvem problemas reais de organização, produtividade e uso de IA.
+
+### Há alguém oferecendo isso como serviço?
+Sim, em áreas como:
+- Consultoria de produtividade e organização.  
+- Mentoria de negócios digitais.  
+- Gestão de eventos e projetos.  
+- Produção de conteúdo com IA.  
+
+### Serviços em alta na área de eventos
+- Planejamento e organização de eventos corporativos e sociais.  
+- Gestão de fornecedores e cronogramas.  
+- Consultoria em eventos digitais (lives, webinars).  
+- Produção de conteúdo para divulgação de eventos.  
+
+### Habilidades mais procuradas por pequenas empresas
+- Organização de processos internos.  
+- Automação com ferramentas digitais e IA.  
+- Marketing digital e criação de conteúdo.  
+- Atendimento e relacionamento com clientes.  
+
+### Ideias para usar minha habilidade de organização e ganhar dinheiro
+1. Consultoria de organização digital (fluxos de trabalho, dados, documentos).  
+2. Gestão de projetos pequenos (cronogramas, checklists, acompanhamento).  
+3. Mentoria em produtividade e uso de IA.  
+4. Organização de eventos (logística, fornecedores, cronogramas).  
+5. Cursos online sobre organização e produtividade.  
+6. Pacotes digitais (templates, checklists, dashboards).  
 
